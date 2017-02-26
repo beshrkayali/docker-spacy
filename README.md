@@ -2,4 +2,4 @@
 
 - `make image`: Make/update image
 
-- `m notebook`: Run container, exposing 8888
+- `make notebook`: Run container, exposing 8888
